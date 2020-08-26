@@ -3,21 +3,42 @@
     height: 100px;
     border: 1px solid #000;
     margin: auto;
+    background-color: lightgray;
+    font-style: italic;
 }
 header{
     width: 900px;
     height: 100px;
-    border: 1px solid #000;
+    border: 1px solid rgb(17, 0, 255);
+    font-style: italic;
 }
 #logo{
     width: 300px;
     height: 100px;
     border: 1px solid #000;
     float: left;
+    font-style: italic;
 }
 .menu{
-    width: 600px;
+    width: 700px;
     height: 100px;
     border: 1px solid #CCC;
     float: right;
+    font-style: italic;
 }
+aside {
+    width: 40%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+  }
+  section {
+    width: 50%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: rgb(135, 127, 247);
+  }
